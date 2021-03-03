@@ -1,4 +1,5 @@
 // write your code below!
+console.log('it works');
 function happyHolidays() {
   return `Happy holidays!`
 }
